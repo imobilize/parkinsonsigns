@@ -24,5 +24,5 @@ The Silverdale Hotel Inn located in Silverdale, , required a full brand and sign
 
 
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 

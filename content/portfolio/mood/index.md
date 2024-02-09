@@ -23,5 +23,5 @@ Mood, located in the village of Longton. Looking for a whole signage package to 
 - Fitted new signage internally and externally.
 
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 

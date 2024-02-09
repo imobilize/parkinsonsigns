@@ -1,5 +1,5 @@
 baseURL = "https://prosignmakers.com/"
-title = "Sign Makers"
+title = "Parkinson Signs"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -24,12 +24,12 @@ home = ["HTML", "AMP", "RSS", "JSON"]
     services = "/:title"
 
 [params]
-author = "Sign Makers"
+author = "Parkinson Signs"
 authorimage = "../assets/images/global/author.webp"
 github = ""
 facebook = ""
 og_image = "/images/sign-makers-card.png"
-sitename = "Sign Makers"
+sitename = "Parkinson Signs"
 twitter = ""
 description = " Your Premier Destination for Exceptional Signage Solutions"
 logo = ""

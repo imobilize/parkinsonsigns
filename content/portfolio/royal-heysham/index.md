@@ -20,5 +20,5 @@ The Royal, located in Heysham, Morecambe, owned by Thwaites Brewery, needed a ne
 ## About the Process:
 - Timber slat signage with hand painted wording.
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 

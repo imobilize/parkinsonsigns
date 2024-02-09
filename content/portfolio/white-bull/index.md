@@ -23,5 +23,5 @@ The White Bull located in Gisburn, was in need of whole new signage scheme and a
 - Fitted new signage internally and externally.
 
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 
