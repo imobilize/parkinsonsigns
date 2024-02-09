@@ -2,7 +2,7 @@
 title: "Holcombe Tap"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: Holcombe Tap reached out to us to help them build top notch sign boards for their business
+description: The Holcombe Tap, Ramsbottom, formerly the Mason Arms, needed a total overhaul to bring something new and fresh.
 author: " "
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"

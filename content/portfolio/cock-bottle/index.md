@@ -2,7 +2,7 @@
 title: "Cock & Bottle"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: Cock & Bottle reached out to us to help them build top notch sign boards for their business
+description: The Cock &amp; Bottle located in Tarleton, We created a fresh new look with the manufacture and fitting of signs.
 author: " "
 featuredImage: "images/1.png"
 image: "images/1.png"

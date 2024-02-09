@@ -2831,10 +2831,6 @@ video {
   overflow-x: hidden;
 }
 
-.overflow-y-hidden {
-  overflow-y: hidden;
-}
-
 .whitespace-nowrap {
   white-space: nowrap;
 }
@@ -4219,11 +4215,6 @@ EmojiSymbols;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
-.hover\:text-dark:hover {
-  --tw-text-opacity: 1;
-  color: rgb(10 16 69 / var(--tw-text-opacity));
-}
-
 .hover\:text-gray-800:hover {
   --tw-text-opacity: 1;
   color: rgb(31 41 55 / var(--tw-text-opacity));
@@ -5176,10 +5167,6 @@ EmojiSymbols;
 
   .lg\:grid {
     display: grid;
-  }
-
-  .lg\:h-auto {
-    height: auto;
   }
 
   .lg\:h-full {

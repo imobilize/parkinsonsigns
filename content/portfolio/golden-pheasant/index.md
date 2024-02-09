@@ -2,7 +2,7 @@
 title: "The Golden Pheasant"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Royal reached out to us to help them build top notch sign boards for their business
+description: The Golden Pheasant, located in Plumley, required a nice face lift. This included the design, manufacture and fitting of signs. Along with an hand sign painted piece to the front elevation of the building.
 author: " "
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"

@@ -2,7 +2,7 @@
 title: "The Star"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Star reached out to us to help them build top notch sign boards for their business
+description: The Star located in the centre of Penkridge. Looking for a complete signage scheme to give the pub a whole new look.
 author: " "
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"

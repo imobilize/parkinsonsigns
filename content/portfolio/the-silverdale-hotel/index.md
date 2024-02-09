@@ -2,7 +2,7 @@
 title: "The Silverdale Hotel"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Silverdale Hotel reached out to us to help them build top notch sign boards for their business
+description: The Silverdale Hotel Inn located in Silverdale, , required a full brand and signage package. This included the creation of a new logo, the manufacture and fitting of signs and a full planning permission application.
 author: " "
 featuredImage: "images/1.jpeg"
 image: "images/1.jpeg"

@@ -2,7 +2,7 @@
 title: "The Royal"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Royal reached out to us to help them build top notch sign boards for their business
+description: The Royal Heysham needed a new lease of life with a full new signage scheme.
 author: " "
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
