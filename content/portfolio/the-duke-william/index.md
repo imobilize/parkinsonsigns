@@ -2,7 +2,7 @@
 title: "The Duke William"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Duke William reached out to us to help them build top notch sign boards for their business
+description: The Duke William located in the centre of Starkholmes. Looking for a complete signage scheme to give the pub a whole new look.
 author: " "
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
@@ -24,4 +24,4 @@ The Duke William, situated in the heart of Starkholmes, was seeking a comprehens
 - Manufacturing and installation of standing signage.
 - External lighting installation for enhanced visibility.
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.

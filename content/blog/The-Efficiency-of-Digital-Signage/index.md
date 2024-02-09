@@ -2,7 +2,7 @@
 title: "The Efficiency of Digital Signage"
 date: 2023-09-08
 draft: false
-author: "Sign Makers"
+author: "Parkinson Signs"
 description: "Signage plays a crucial role in every business, whether it's a retail store, a bustling hospitality venue, or a bustling manufacturing hub. From wayfinding to marketing, good-quality signage is essential."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
@@ -47,8 +47,8 @@ Gone are the lead times associated with traditional signage updates. With digita
 Digital signage offers the unique advantage of interactivity. Interactive kiosks, for instance, streamline processes like self-check-in, reducing administrative burdens on your staff while creating engaging experiences for your customers.
 
 ### 5. Continuous Innovation
-At Sign Makers, we are dedicated to keeping our centers equipped with the latest sign-making technology. We consistently share industry innovations across our global network of experts, providing our customers with access to the best solutions. By investing in digital signage today, you position yourself to be among the first to benefit from future developments and upgrades.
+At Parkinson Signs, we are dedicated to keeping our centers equipped with the latest sign-making technology. We consistently share industry innovations across our global network of experts, providing our customers with access to the best solutions. By investing in digital signage today, you position yourself to be among the first to benefit from future developments and upgrades.
 
 ![Digital Signage Advantages](images/2.jpg)
 
-Digital signage is a dynamic and efficient solution for businesses seeking to enhance their visual communication. Stay ahead in the digital age by embracing the power of Sign Makers' digital signage solutions.
+Digital signage is a dynamic and efficient solution for businesses seeking to enhance their visual communication. Stay ahead in the digital age by embracing the power of Parkinson Signs' digital signage solutions.

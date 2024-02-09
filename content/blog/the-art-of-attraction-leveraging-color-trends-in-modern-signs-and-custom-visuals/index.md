@@ -2,7 +2,7 @@
 title: "The Art of Attraction: Leveraging Color Trends in Modern Signs & Custom Visuals"
 date: 2023-09-08
 draft: false
-author: "Sign Makers"
+author: "Parkinson Signs"
 description: "In recent years, color trends have gained significant popularity, extending beyond the official Pantone Color of the Year announcement. Behr, a renowned paint company, has unveiled their color of the year, \"Cracked Pepper,\" a soft yet daring black that makes a sophisticated statement."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
@@ -44,4 +44,4 @@ Whether it’s a piece of art against a dark wall or a white logo on oversized s
 
 When considering ways to get your brand noticed, dark colors can provide a backdrop that creates better contrast.
 
-Contrast enhances the power of visibility as it defines shape, creates visual acuity, and draws the eye. The design experts at Sign Makers are masters in the design of attraction and can create bold, eye-catching visual solutions for your business. Call us today!
+Contrast enhances the power of visibility as it defines shape, creates visual acuity, and draws the eye. The design experts at Parkinson Signs are masters in the design of attraction and can create bold, eye-catching visual solutions for your business. Call us today!

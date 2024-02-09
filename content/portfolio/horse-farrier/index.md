@@ -2,7 +2,7 @@
 title: "Horse & Farrier"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: The Fleece reached out to us to help them build top notch sign boards for their business
+description: The Horse &amp; Farrier, Lancaster, needed a complete new overhaul, with new signage scheme, fresh colours and new logo.
 author: " "
 featuredImage: "images/1.jpeg"
 image: "images/1.jpeg"
@@ -23,5 +23,5 @@ The Horse & Farrier, Lancaster, needed a complete new overhaul, with new signage
 
 
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 
