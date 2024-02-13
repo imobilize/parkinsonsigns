@@ -48,7 +48,7 @@
           <div
             class="relative max-w-md px-4 py-6 mx-auto sm:max-w-3xl sm:px-6 lg:max-w-none lg:px-0 lg:py-20 mt-2 md:mt-20">
             <div class="relative overflow-hidden rounded-2xl hover:contrast-125">
-              {{ $missionimage := resources.Get "images/about-signs.jpg" }}
+              {{ $missionimage := resources.Get "images/parkinsonsigns.jpg" }}
               {{ with $missionimage }}
               {{ with .Resize (printf "%dx%d webp q50" .Width .Height) }}
               <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
@@ -120,7 +120,7 @@
 
         <div class="flex items-center justify-center w-full h-96 lg:w-1/2 pt-12 md:pt-0">
 
-          {{ with resources.Get "images/signboard.jpg" }}
+          {{ with resources.Get "images/parkinson_signs_outlet.jpg" }}
           {{ $small := (.Resize "400x webp q80").RelPermalink }}
           {{ $medium := (.Resize "550x webp q80").RelPermalink }}
           {{ $large := (.Resize "900x webp q80").RelPermalink }}
