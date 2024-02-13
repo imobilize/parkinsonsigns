@@ -2,7 +2,7 @@
 title: "Crafting an Effective Sign and Graphics Blueprint for Your Business"
 date: 2023-09-08
 draft: false
-author: "Sign Makers"
+author: "Parkinson Signs"
 description: "Regardless of your business's age, whether it's a well-established enterprise or a budding startup, signs and graphics are indispensable for cultivating your brand and delivering a top-notch customer experience."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
@@ -69,4 +69,4 @@ The objective is to create functional, aesthetically pleasing, and effective sig
 - Attempting to blend in with the surrounding environment.
 - Underinvesting or using subpar materials that won't withstand time or environmental factors.
 
-With a well-thought-out signage design strategy, your business can produce striking, informative, and enduring signs that faithfully represent your brand and its mission. Effective signage is an investment, and its long-term value can yield returns for years to come. Partner with professionals who understand your business and its unique goals. You need more than just a sign company; you need creative minds who can bring your vision to life. At Sign Makers, we are ready to help.
+With a well-thought-out signage design strategy, your business can produce striking, informative, and enduring signs that faithfully represent your brand and its mission. Effective signage is an investment, and its long-term value can yield returns for years to come. Partner with professionals who understand your business and its unique goals. You need more than just a sign company; you need creative minds who can bring your vision to life. At Parkinson Signs, we are ready to help.

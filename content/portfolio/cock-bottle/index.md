@@ -2,7 +2,7 @@
 title: "Cock & Bottle"
 date: 2020-09-23T15:28:43+06:00
 draft: false
-description: Cock & Bottle reached out to us to help them build top notch sign boards for their business
+description: The Cock &amp; Bottle located in Tarleton, We created a fresh new look with the manufacture and fitting of signs.
 author: " "
 featuredImage: "images/1.png"
 image: "images/1.png"
@@ -23,5 +23,5 @@ The Cock & Bottle located in Tarleton, owned by Thwaites Brewery. We created a f
 
 
 
-Trust Sign Makers to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
+Trust Parkinson Signs to revitalize your establishment's image with our expert signage solutions. We'll bring a fresh new look to your business, making it stand out in the center of Starkholmes.
 
