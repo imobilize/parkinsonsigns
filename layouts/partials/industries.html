@@ -4,19 +4,24 @@
       <h2 class="text-3xl font-bold tracking-tight text-dark sm:text-4xl text-center mb-12">
         <span class="font-bold">Your Premier Source for </span> <span class="">Custom Sign Boards</span>
       </h2>
-      <p class="text-left mb-6 text-xl sm:text-xl">Look no further than Parkinson Signs, your premier source for custom sign
-        boards. With decades of experience and a team of skilled professionals, we specialize in crafting unique and
-        eye-catching sign solutions tailored to your exact needs. Whether you're a national brand or an individual
-        business, we are committed to delivering top-quality custom sign boards that make a lasting impression. Trust us
-        to bring your vision to life and enhance your brand's visibility.
-      </p>
+      <div class="flex justify-center">
+        <p class="text-left mb-6 text-base w-4/5">Look no further than Parkinson Signs, your premier source for custom sign
+          boards. With decades of experience and a team of skilled professionals, we specialize in crafting unique and
+          eye-catching sign solutions tailored to your exact needs. Whether you're a national brand or an individual
+          business, we are committed to delivering top-quality custom sign boards that make a lasting impression. Trust us
+          to bring your vision to life and enhance your brand's visibility.
+        </p>
+      </div>
     </div>
     <!-- Card Blog -->
+    <div class="text-2xl md:text-end">
+      <a href="/services" class="text-primary hover:text-parimary hover:underline">View all services</a>
+  </div>
     <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
       <!-- Grid -->
       <div class="grid lg:grid-cols-2 gap-6">
         {{ $servicesPages := where .Site.RegularPages "Section" "services" }}
-        {{ range $servicesPages }}
+        {{ range first 2 $servicesPages }}
         <!-- Card -->
         <a class="group sm:flex" href="{{ .RelPermalink }}">
           <div class="flex-shrink-0 relative rounded-xl overflow-hidden w-full h-[200px] sm:w-[250px] sm:h-[350px]">
@@ -33,17 +38,17 @@
               class="w-full h-full absolute top-0 left-0 object-cover" width="100%" alt="{{ .Params.title }}" />
             {{ end }}
           </div>
-
+      
           <div class="grow">
             <div class="p-4 flex flex-col h-full sm:p-6">
               <h3
                 class="text-[22px] leading-[34px] font-semibold text-gray-800 hover:text-primary dark:text-gray-300 dark:group-hover:text-white">
                 {{ .Title }}
               </h3>
-              <p class="mt-2 text-xl sm:text-xl">
+              <p class="mt-2 text-base">
                 {{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Params.description }}{{ end }}
               </p>
-
+      
               <div class="mt-5 sm:mt-auto">
                 <p
                   class="mt-4 inline-flex items-center gap-x-1.5 text-primary decoration-2 hover:underline font-medium">
@@ -60,6 +65,7 @@
         <!-- End Card -->
         {{ end }}
       </div>
+      
       <!-- End Grid -->
     </div>
 
