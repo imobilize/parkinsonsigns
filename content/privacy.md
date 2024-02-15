@@ -4,6 +4,8 @@ date: 2023-04-10T11:10:36+08:00
 draft: false
 language: en
 description: Privacy policy
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 ---
 
 ### 1. INTRODUCTION  

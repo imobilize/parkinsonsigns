@@ -6,6 +6,7 @@ author: ""
 description: "The HIVE Blackburn & Darwen Business Awards celebrate and reward the outstanding work of businesses from different sectors and inspirational individuals from across Blackburn & Darwen."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
+image: "images/1.jpg"
 categories: ["Awards"]
 tags: ["Awards", "Signboard", "Signmaking"]
 ---
