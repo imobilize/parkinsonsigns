@@ -23,11 +23,9 @@
 
         <nav :class="{'flex': open, 'hidden': !open}"
             class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row sm:items-center sm:justify-center">
-            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1"
-                href="/about/">About</a>
+            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1" href="/about/">About</a>
             <div x-data="{ open: false }" @click.away="open = false" class="relative inline-block text-left">
-                <a type="button" href="/services"
-                    class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1">
+                <a type="button" href="/services" class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1">
                     Services
                     <!-- <svg class="w-2.5 h-2.5 ml-1 mt-1 transition-transform duration-200 transform"
                         :class="{'rotate-180': open, 'rotate-0': !open}" aria-hidden="true"
@@ -36,36 +34,10 @@
                             d="m1 1 4 4 4-4" />
                     </svg> -->
                 </a>
-                <!-- <div x-show="open" x-transition:enter="transition ease-out duration-100"
-                    x-transition:enter-start="transform opacity-0 scale-95"
-                    x-transition:enter-end="transform opacity-100 scale-100"
-                    x-transition:leave="transition ease-in duration-75"
-                    x-transition:leave-start="transform opacity-100 scale-100"
-                    x-transition:leave-end="transform opacity-0 scale-95"
-                    class="origin-top-right absolute right-0 mt-2 w-40 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
-                    <div class="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
-                        {{ $servicesPages := (where .Site.RegularPages "Section" "services") }}
-                        {{ range $servicesPages }}
-                        <a href="{{ .Permalink }}"
-                            class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-                            role="menuitem">{{ .Title }}</a>
-                        {{ end }}
-                        <a href="/services"
-                            class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:text-gray-900"
-                            role="menuitem">View All Services</a>
-                    </div>
-                </div> -->
             </div>
-            <!-- <a class="px-4 py-2 mt-2 text-lg  font-semibold rounded-lg md:mt-0 md:ml-1 text-white hover:text-primary focus:text-white"
-            href="/products/">Products</a> -->
-            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1"
-            href="/portfolio/">Portfolio</a>
-            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1"
-                href="/blog/">Blog</a>
-            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1"
-                href="/contact/">Contact</a>
-            <!-- <a class="px-4 py-2 mt-2 text-lg text-white bg-primary font-semibold rounded-lg md:mt-0 md:ml-1 hover:bg-white hover:text-primary focus:text-white"
-                href="https://prosignmakers.com/quotation-form/">Free Quotation</a> -->
+            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1" href="/portfolio/">Portfolio</a>
+            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1" href="/blog/">Blog</a>
+            <a class="px-4 py-2 mt-2 text-lg navheading rounded-lg md:mt-0 md:ml-1" href="/contact/">Contact</a>
         </nav>
     </div>
 </div>
