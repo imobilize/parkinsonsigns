@@ -6,6 +6,8 @@ sitemapExclude: true
 language: en
 description: ""
 keywords: "Parkinson Signs"
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 ---
 
 ## Your free consultation has been scheduled

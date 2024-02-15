@@ -6,7 +6,7 @@ language: en
 description: Contact Parkinson Signs
 type: page
 layout: contact
-image: ""
-images: [""]
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 keywords: "Parkinson Signs, contact, email form, Our Location"
 ---

@@ -6,6 +6,7 @@ author: "Parkinson Signs"
 description: "In recent years, color trends have gained significant popularity, extending beyond the official Pantone Color of the Year announcement. Behr, a renowned paint company, has unveiled their color of the year, \"Cracked Pepper,\" a soft yet daring black that makes a sophisticated statement."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
+image: "images/1.jpg"
 categories: ["Creativity", "Design"]
 tags: ["Graphic Design", "SignBoards"]
 ---

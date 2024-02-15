@@ -5,6 +5,8 @@ draft: false
 sitemapExclude: true
 language: en
 description: Contact us form submitted
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 ---
 
 ## We have received your enquiry
