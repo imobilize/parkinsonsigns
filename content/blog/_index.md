@@ -5,5 +5,7 @@ draft: false
 description: "Explore Parkinson Signs's premium sigange solutions for businesses across UK"
 author: ""
 featuredImage: ""
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 # keywords: "Blog, Parkinson Signs, Metal Fabrication, Stainless Steel, news"
 ---

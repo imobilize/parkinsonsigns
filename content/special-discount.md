@@ -6,4 +6,6 @@ language: en
 description: Parkinson Signs delivers high quality signs
 type: page
 layout: special-discount
+image: "images/parkinson-signs-og.jpg"
+images: ["images/parkinson-signs-og.jpg"]
 ---

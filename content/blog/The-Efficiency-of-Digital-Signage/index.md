@@ -6,6 +6,7 @@ author: "Parkinson Signs"
 description: "Signage plays a crucial role in every business, whether it's a retail store, a bustling hospitality venue, or a bustling manufacturing hub. From wayfinding to marketing, good-quality signage is essential."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
+image: "images/1.jpg"
 categories: ["Signage", "Digital"]
 tags: ["Digital Signage", "SignBoards"]
 ---

@@ -6,6 +6,7 @@ author: "Parkinson Signs"
 description: "Regardless of your business's age, whether it's a well-established enterprise or a budding startup, signs and graphics are indispensable for cultivating your brand and delivering a top-notch customer experience."
 featuredImage: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
+image: "images/1.jpg"
 categories: ["Creativity", "Design"]
 tags: ["Graphic Design", "SignBoards"]
 ---

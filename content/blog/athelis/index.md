@@ -5,6 +5,7 @@ draft: false
 author: ""
 description: "Recently we have been working together with the guys at Athelis gym, Warrington on a really special signage scheme. Athelis isn’t your average gym, more a health and fitness super club, with state of the art gym equipment, relaxing spa areas, bar and high class dining experience."
 featuredImage: "images/1.jpg"
+image: "images/1.jpg"
 images: ["images/1.jpg", "images/2.jpg", "images/3.jpg", "images/3.jpg"]
 categories: ["branding", "fitness"]
 tags: ["fitness", "gym", "branding"]
