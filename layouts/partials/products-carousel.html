@@ -5,7 +5,7 @@
             viewBox="0 0 100 100" fill="currentColor" preserveAspectRatio="none slice">
             <path d="M50 0H100L50 100H0L50 0Z"></path>
         </svg>
-        {{ with resources.Get "images/parkinsonsigns.jpg" }}
+        {{ with resources.Get "images/parkinsonsigns_customise.jpg" }}
         {{ $small := (.Resize "400x webp q80").RelPermalink }}
         {{ $medium := (.Resize "550x webp q80").RelPermalink }}
         {{ $large := (.Resize "900x webp q80").RelPermalink }}
@@ -16,7 +16,7 @@
           {{- with $large -}}, {{.}} 768w{{- end -}}
           {{- with $featuredimage -}}, {{.}} 1100w{{- end -}}"
             class="object-cover w-full h-56 rounded shadow-lg lg:rounded-none lg:shadow-none md:h-96 lg:h-full"
-            alt="Saturn custom built products" />
+            alt="Parkinson Signs installing a high grade Signange for Black Pool Football Club Hotel" />
         {{ end }}
     </div>
     <div class="relative flex flex-col items-start w-full max-w-xl px-4 mx-auto md:px-0 lg:px-8 lg:max-w-screen-xl">

@@ -16,7 +16,7 @@
                 {{ $featured := .Params.featuredImage }}
                 {{ with .Resources.GetMatch $featured }}
                 {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
-                <img src="{{ $postimage }}" class="max-h-[350px] md:max-w-[220px] md:h-full md:object-cover rounded" alt="">
+                <img src="{{ $postimage }}" class="max-h-[350px] md:max-w-[220px] md:h-full md:object-cover rounded" alt="{{ .Title }}">
                 {{ end }}
                 <div class="p-8 flex-1">
                     <p class="font-medium text-sm text-dark-semilight tracking-[0.86px] uppercase">{{.Date.Format

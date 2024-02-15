@@ -1,9 +1,9 @@
 ---
 title: "Design Services"
-date: 2021-12-18T11:10:36+08:00
+date: 2017-03-23T11:10:36+08:00
 draft: false
 language: en
-description: Our design studio, based in Blackburn, has a qualified and experienced graphic design team, who offer a range of design services.
+description: Our design services offer advice on styles, colours and typefaces. We are also happy to help in design and branding ideas.
 featuredImage: "images/1.jpg"
 image: "images/1.jpg"
 images: ["images/1.jpg"]
