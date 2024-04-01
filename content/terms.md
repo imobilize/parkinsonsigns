@@ -14,7 +14,7 @@ This agreement (“Agreement”) is a binding agreement between you (“you”) 
 
 ### REFUND POLICY / CANCELLATION
 Parkinson Signs is committed to providing each customer with exceptional service. We want you to feel comfortable about transacting business with us. Due to the nature of our business and the accessibility of our products some of our programs have different refund and cancellation policies. Please find the complete details in the “refund policy” section of www.parkinsonsigns.co.uk.
-If you are not completely satisfied with the product you have paid for, you may contact [support@prosignmakers.com]() and we will look into your request.
+If you are not completely satisfied with the product you have paid for, you may contact [support@parkinsonsigns.com]() and we will look into your request.
 
 
 
@@ -24,7 +24,7 @@ The company respects your privacy and permits you to control the treatment of yo
 
 
 ### PROGRAM-SPECIFIC TERMS AND CONDITIONS
-These terms are generalized for full terms and conditionals for a specific program you purchase please request them at [support@prosignmakers.com](/).Please note upon purchase the agreement must be signed on part of the client.
+These terms are generalized for full terms and conditionals for a specific program you purchase please request them at [support@parkinsonsigns.com](/).Please note upon purchase the agreement must be signed on part of the client.
 
 
 ### LICENSE
