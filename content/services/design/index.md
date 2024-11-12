@@ -4,9 +4,9 @@ date: 2017-03-23T11:10:36+08:00
 draft: false
 language: en
 description: Our design services offer advice on styles, colours and typefaces. We are also happy to help in design and branding ideas.
-featuredImage: "images/1.jpg"
-image: "images/1.jpg"
-images: ["images/1.jpg"]
+featuredImage: "images/2.jpg"
+image: "images/2.jpg"
+images: ["images/2.jpg"]
 keywords: "Logo Design, Banner Design, Card Design, signage design"
 
 ---

@@ -4,12 +4,12 @@ date: 2020-09-23T15:28:43+06:00
 draft: false
 description: Parkinson Signs can assist you in effectively conveying these instructions with personalized wayfinding signs. These signs are particularly valuable in complex office hallways, hospital corridors, and extensive campuses.
 author: " "
-featuredImage: "images/1.jpg"
-image: "images/1.jpg"
-images: ["images/1.jpg","images/2.jpg","images/3.jpg","images/4.jpg"]
-image1: "images/2.jpg"
-image2: "images/3.jpg"
-image3: "images/4.jpg"
+featuredImage: "images/3.jpg"
+image: "images/3.jpg"
+images: ["images/3.jpg","images/1.jpg","images/2.jpg"]
+image1: "images/3.jpg"
+image2: "images/1.jpg"
+image3: "images/2.jpg"
 keywords: "Way finding, Signs"
 
 ---
