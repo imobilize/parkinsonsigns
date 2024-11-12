@@ -4,9 +4,9 @@ date: 2020-09-23T15:28:43+06:00
 draft: false
 description: Are you aiming to attract potential customers to your business? An effective way to do so is by using site signs that introduce your identity. Yard and lawn signs come in various sizes, shapes, and colors and can be personalized to align with your brand. Parkinson Signs offers these signs to meet your visual communication needs
 author: " "
-featuredImage: "images/1.jpg"
-image: "images/1.jpg"
-images: ["images/1.jpg","images/2.jpg","images/3.jpg","images/4.jpg"]
+featuredImage: "images/4.jpg"
+image: "images/4.jpg"
+images: ["images/4.jpg","images/2.jpg","images/3.jpg","images/4.jpg"]
 image1: "images/2.jpg"
 image2: "images/3.jpg"
 image3: "images/4.jpg"
